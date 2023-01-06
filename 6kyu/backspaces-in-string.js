@@ -10,7 +10,7 @@
 // ""              ==>  ""
 
 
-//my solution:
+//my solution :
 
 function cleanString(str) {
 
