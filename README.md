@@ -1,4 +1,3 @@
-# codewars-demo
-#codewars-demo
-# first_repo
-# codewars-demo
+# codewars kata
+
+-- various kata completed on codewars as I learn to code --
