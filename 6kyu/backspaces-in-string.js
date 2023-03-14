@@ -20,7 +20,7 @@ function cleanString(str) {
     for(let char of newArr){
       if(char === "#"){
         result.pop(); 
-      } else{
+      } else {
         result.push(char); 
       }
     } return result.join(""); 
