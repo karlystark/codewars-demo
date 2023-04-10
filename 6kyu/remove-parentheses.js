@@ -26,7 +26,7 @@ function removeParentheses(str){
     if (str[i] === "(") {
       isOpen++;
     } else if (str[i] === ")") {
-      isOpen -= 1;
+      isOpen -=1;
     } else if (isOpen === 0) {
       result += str[i];
     }
